@@ -9,11 +9,12 @@
 ```bash
 📁 tocaia-df/
 ├── scraper/                      # Coleta e processamento de dados sociais
-│   ├── main_scraper.py           # Código de extração de posts do X (Twitter)
-│   ├── anonimiza_texto.py        # Remoção de dados pessoais
-│   └── incidentes_detectados.json  # Saída estruturada com denúncias identificadas
-├── chatbot/                      # Chatbot configurado no Botoress
+│   ├── twitter_scraper.py          # Código de extração de posts do X anonimizados
+│   ├── requirements.txt        # Pacotes utilizados
+│   └── incidentes_detectados.json  # Saída estruturada com as desordens urbanas identificadas
+├── chatbot/                      # Chatbot configurado no Botpress
 │   └── prompt_instrucoes.md      # Instruções para o comportamento do assistente
-├── data/                         # Dados simulados ou reais para análise
+├── data/                         # Dados 
 │   └── denuncias_chatbot.csv
+│   └── incidentes_detectados.csv
 ├── README.md                     # Este arquivo

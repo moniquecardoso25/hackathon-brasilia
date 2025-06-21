@@ -1,0 +1,110 @@
+[
+    {
+        "texto": "Que ABSURDO! O Parque da Cidade, cartão postal de Brasília e frequentado por toda a população do DF, tem lugares sem luz e abandonados. Falta mais zelo, segurança e grades de isolamento no parque todo!",
+        "incidentes_detectados": ["falta de luz", "abandono", "segurança"],
+        "regioes_detectadas": ["Parque da Cidade", "Brasília", "DF"],
+        "data": "2025-04-07",
+        "tweet_id": 1,
+        "link": "https://twitter.com/user/status/1",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "No trecho aqui para Brasília e a BR-153 interditada na parte de Anápolis, um grande alagamento na rodovia.",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["Brasília", "Anápolis", "BR-153"],
+        "data": "2025-03-31",
+        "tweet_id": 2,
+        "link": "https://twitter.com/user/status/2",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "O governo faz propaganda da tubulação que 'acabou com os alagamentos' no DF em abril. Na seca não vai ter alagamento mesmo - pelo menos é o que esperamos.",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["DF"],
+        "data": "2025-03-30",
+        "tweet_id": 3,
+        "link": "https://twitter.com/user/status/3",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Pra fugir do problema de alagamento no subsolo, a UnB escolheu simplesmente cimentar as entradas de ar. Agora temos mofo extremo.",
+        "incidentes_detectados": ["alagamento", "mofo"],
+        "regioes_detectadas": ["UnB"],
+        "data": "2024-06-10",
+        "tweet_id": 4,
+        "link": "https://twitter.com/user/status/4",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Chuva causa alagamento na Asa Norte. Na 202 Norte, ruas totalmente alagadas e carros com dificuldade de passar. Alerta de chuvas intensas pelo Inmet.",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["Asa Norte", "202 Norte", "Brasília", "DF"],
+        "data": "2024-04-11",
+        "tweet_id": 5,
+        "link": "https://twitter.com/user/status/5",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "O carnaval começou com o DF debaixo d'água. Imagens de caos e alagamento em vários pontos como Asa Norte e Ceilândia. Sem falar na falta de luz.",
+        "incidentes_detectados": ["alagamento", "falta de luz"],
+        "regioes_detectadas": ["Asa Norte", "Ceilândia", "DF"],
+        "data": "2024-02-09",
+        "tweet_id": 6,
+        "link": "https://twitter.com/user/status/6",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Presa num alagamento na Vicente Pires. KKKK",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["Vicente Pires"],
+        "data": "2024-01-07",
+        "tweet_id": 7,
+        "link": "https://twitter.com/user/status/7",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Vários casos de alagamento registrados no DF: Pistão Sul, Pistão Norte, Metrô DF, Vicente Pires. Em caso de emergência, ligue 199 ou 193.",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["Pistão Sul", "Pistão Norte", "Metrô DF", "Vicente Pires", "DF"],
+        "data": "2024-01-03",
+        "tweet_id": 8,
+        "link": "https://twitter.com/user/status/8",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Chuva causa alagamento e derruba postes. Prejuízos na Estrutural, Vicente Pires e Samambaia.",
+        "incidentes_detectados": ["alagamento", "queda de postes"],
+        "regioes_detectadas": ["Estrutural", "Vicente Pires", "Samambaia", "DF"],
+        "data": "2023-11-04",
+        "tweet_id": 9,
+        "link": "https://twitter.com/user/status/9",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Moradores de Vicente Pires estão indignados. Buracos, alagamento e destruição por toda parte.",
+        "incidentes_detectados": ["buraco", "alagamento", "destruição"],
+        "regioes_detectadas": ["Vicente Pires"],
+        "data": "2022-03-15",
+        "tweet_id": 10,
+        "link": "https://twitter.com/user/status/10",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Motorista de BMW fica presa em alagamento em tesourinha na Asa Norte. Foi retirada por funcionários do SLU.",
+        "incidentes_detectados": ["alagamento"],
+        "regioes_detectadas": ["Asa Norte", "Tesourinha", "Brasília"],
+        "data": "2023-04-11",
+        "tweet_id": 11,
+        "link": "https://twitter.com/user/status/11",
+        "geo": "Não disponível"
+    },
+    {
+        "texto": "Foi pavoroso, diz motorista sobre assalto violento a ônibus no Entorno do DF.",
+        "incidentes_detectados": ["assalto"],
+        "regioes_detectadas": ["Entorno do DF"],
+        "data": "2025-05-29",
+        "tweet_id": 12,
+        "link": "https://twitter.com/user/status/12",
+        "geo": "Não disponível"
+    }
+]

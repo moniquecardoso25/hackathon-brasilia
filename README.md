@@ -13,8 +13,6 @@
 │   ├── requirements.txt        # Pacotes utilizados
 │   └── incidentes_detectados.json  # Saída estruturada com as desordens urbanas identificadas
 ├── chatbot/                      # Chatbot configurado no Botpress
-│   └── prompt_instrucoes.md      # Instruções para o comportamento do assistente
-├── data/                         # Dados 
-│   └── denuncias_chatbot.csv
-│   └── incidentes_detectados.csv
+│   └── README.md      # Link e Prompt com as instruções para o comportamento do assistente
+
 ├── README.md                     # Este arquivo
